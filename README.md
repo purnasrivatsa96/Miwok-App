@@ -1,4 +1,4 @@
-![alt text](https://github.com/purnasrivatsa96/Miwok-App/blob/images/miwok-1.jpg?raw=true)
+![alt text](https://github.com/purnasrivatsa96/Miwok-App/master/images/miwok-1.jpg?raw=true)
 Miwok App
 ===================================
 

@@ -1,4 +1,5 @@
 ![alt text](images/miwok-1.jpg?raw=true)
+![alt text](images/miwok-2.jpg?raw=true)
 
 
 Miwok App

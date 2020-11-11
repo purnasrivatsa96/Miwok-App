@@ -1,7 +1,7 @@
 Miwok App
 ===================================
-![alt text](https://github.com/purnasrivatsa96/Miwok-App/blob/main/images/miwok-1.jpg)
-![alt text](https://github.com/purnasrivatsa96/Miwok-App/blob/main/images/miwok-1.jpg)
+![alt text](https://github.com/purnasrivatsa96/Miwok-App/tree/master/images/miwok-1.jpg)
+![alt text](https://github.com/purnasrivatsa96/Miwok-App/tree/master/images/miwok-2.jpg)
 
 This app displays lists of vocabulary words for the user to learn the Miwok language.
 Used in a Udacity course in the Beginning Android Nanodegree.
